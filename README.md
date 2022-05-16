@@ -1,7 +1,7 @@
 # E Commerce Counter
 It is a E-Commerce component made with javascript. The uses case for this counter can be seen while increasing/decreasing the no.of orders for a product.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://codingkiran.github.io/Counter/
 
 
 ## How It's Made:
